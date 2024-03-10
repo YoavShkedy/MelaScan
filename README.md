@@ -1,5 +1,5 @@
-# MelanomaDetector iOS App
-MelanomaDetector aims to predict if a mole is malignant or benign using a trained machine learning model. Users can capture images of their moles using the iPhone camera, and the app provides a prediction based on the image.
+# MelaScan iOS App
+MelaScan aims to predict if a mole is malignant or benign using a trained machine learning model. Users can capture images of their moles using the iPhone camera, and the app provides a prediction based on the image.
 
 🚫 **Disclaimer**: This app is intended for informational purposes only. It does not offer medical advice or diagnostic services. Always consult with a healthcare professional for any medical concerns.
 
